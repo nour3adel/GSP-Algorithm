@@ -1,5 +1,5 @@
 
-# Data Mining project 2020/2021 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmeoli/DataMiningUniPi/master)
+# Data Mining project 2022/2023 [![run](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmeoli/DataMiningUniPi/master)
 
 This project was developed during the Data Mining course @ 
 [Department of Computer Science](https://www.facebook.com/groups/3201028960212058) @ [University of Ain shams](https://www.asu.edu.eg/) 
